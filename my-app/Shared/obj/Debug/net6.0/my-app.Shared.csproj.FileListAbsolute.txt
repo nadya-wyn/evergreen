@@ -1,0 +1,12 @@
+C:\projects\evergreen\my-app\Shared\bin\Debug\net6.0\my-app.Shared.deps.json
+C:\projects\evergreen\my-app\Shared\bin\Debug\net6.0\my-app.Shared.dll
+C:\projects\evergreen\my-app\Shared\bin\Debug\net6.0\my-app.Shared.pdb
+C:\projects\evergreen\my-app\Shared\obj\Debug\net6.0\my-app.Shared.csproj.AssemblyReference.cache
+C:\projects\evergreen\my-app\Shared\obj\Debug\net6.0\my-app.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\evergreen\my-app\Shared\obj\Debug\net6.0\my-app.Shared.AssemblyInfoInputs.cache
+C:\projects\evergreen\my-app\Shared\obj\Debug\net6.0\my-app.Shared.AssemblyInfo.cs
+C:\projects\evergreen\my-app\Shared\obj\Debug\net6.0\my-app.Shared.csproj.CoreCompileInputs.cache
+C:\projects\evergreen\my-app\Shared\obj\Debug\net6.0\my-app.Shared.dll
+C:\projects\evergreen\my-app\Shared\obj\Debug\net6.0\refint\my-app.Shared.dll
+C:\projects\evergreen\my-app\Shared\obj\Debug\net6.0\my-app.Shared.pdb
+C:\projects\evergreen\my-app\Shared\obj\Debug\net6.0\ref\my-app.Shared.dll
